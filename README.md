@@ -14,12 +14,10 @@ I have spent the last 8 years working at Nomura Holding America, Inc (also Insti
 
 I have a passion for detail and quality! Of course, I also have a passion for music and play guitar in a few bands.
 
-<br>
 EDUCATION:
 - Associates Degree in Oracle Database Management from U.C. Berkeley Extension
 - B.A. in Music Business and Performance from Berklee College of Music (Boston, MA).
 
-<br>
 EXPERIENCE:<br>
 I have been a QA Engineer / Software Tester for over 25 years and have worked in companies developing software for Data Mining, Business Intelligence, Advertising and Marketing, Medical Genetics, and Algorithmic Trading. 
 
