@@ -19,7 +19,7 @@ EDUCATION:
 - B.A. in Music Business and Performance from Berklee College of Music (Boston, MA).
 
 EXPERIENCE:<br>
-I have been a QA Engineer / Software Tester for over 25 years and have worked in companies developing software for Data Mining, Business Intelligence, Advertising and Marketing, Medical Genetics, and Algorithmic Trading. 
+I have been a QA Engineer / Software Tester for over 25 years and have worked in companies developing software for Data Mining, Business Intelligence, Advertising and Marketing, Online Mortgage Signing, Clothing, Medical Genetics, and Algorithmic Trading. 
 
 
 [![My Skills](https://skillicons.dev/icons?i=bash,git,gitlab,github,idea,gherkin,gradle,nodejs,npm,grafana,java,jenkins,powershell,prometheus,py,pycharm,docker,apple,redhat,windows,spring,sublime,vim,selenium)](https://skillicons.dev)
