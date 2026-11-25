@@ -4,13 +4,13 @@ Hi, my name is Christian. I live near Berkeley, California and I'm a QA Tester /
 
 
 RECENT EXPERIENCE:<br>
-I have spent the last 8 years working at Nomura Holding America, Inc (also Instinet, a subsidiary of Nomura) testing an Order Management System for Automated Algorithmic Trading in the US stock markets. My roles at Nomura have been: 
+I have spent the last 8 years working at Nomura Holding America, Inc (also Instinet, a subsidiary of Nomura) testing an Order Management System for Automated Algorithmic Trading Cash Equities, ETF's, and Options in the US stock markets. My roles at Nomura have been: 
 - Scrum Master for two Algorithmic platforms (Execution Experts, Smart Order Router)
 - Testing, documenting, and managing our SDLC and production release cycles
-- Supporting an in-house test framework called, AQUA that was built on Java & Cucumber and designed for BDD Gherkins style testing. It allows testers and users (institutional firms, traders) to send test orders, validating the parent/child order lifecycle and behavior
+- Supporting an in-house test framework called, AQUA that was built on Java & Cucumber and designed for BDD Gherkins style testing. It allows testers and users (institutional firms, traders, developers and QA Engineers) to send test orders, validating the parent/child order lifecycle
 - My most recent work involved using Claude Code Ai to assist with refactoring the AQUA codebase, adding some new features, and documenting the framework and test results
-- Writing integration tests (Ai assisted) to shore-up testing gaps in the Experts and SOR codebases
-- Using Ai for improving our SOR release cycles to production  
+- Writing integration tests (Ai assisted) to shore-up testing gaps in the SOR and Experts codebases
+- Using Ai for streamlining and excelerating our SOR release cycles to production  
 
 I have a passion for detail and quality! Of course, I also have a passion for music and play guitar in a few bands.
 
